@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://bfar.xyz/resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://bfar.xyz
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,26 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: equemeuputo
+instagram: bfar97
+linkedin: bernardofar
+github: bfar97
+email: bfar97@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Bernardo Rodrigues
+    bio: Tech wizard with a taste for JavaScript and a craving for new code horizons – I'm basically a digital snack explorer!
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: equemeuputo
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
